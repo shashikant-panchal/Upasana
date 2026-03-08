@@ -1,0 +1,84 @@
+{
+    "app": {
+        "name": "एकादशी दिन",
+        "tagline": "एकादशी पालन और दैनिक अभ्यास के लिए आपका आध्यात्मिक साथी"
+    },
+    "common": {
+        "loading": "लोड हो रहा है...",
+        "error": "त्रुटि",
+        "success": "सफलता",
+        "save": "सहेजें",
+        "cancel": "रद्द करें",
+        "change": "बदलें",
+        "connect": "कनेक्ट करें",
+        "export": "निर्यात",
+        "back": "पीछे",
+        "viewDetails": "विवरण देखें",
+        "retry": "पुनः प्रयास करें",
+        "today": "आज",
+        "upcoming": "आगामी",
+        "daysRemaining": "दिन शेष"
+    },
+    "navigation": {
+        "home": "होम",
+        "calendar": "कैलेंडर",
+        "ekadashis": "एकादशी",
+        "profile": "प्रोफ़ाइल",
+        "settings": "सेटिंग्स"
+    },
+    "settings": {
+        "title": "सेटिंग्स",
+        "subtitle": "अपने अनुभव को अनुकूलित करें",
+        "location": {
+            "title": "स्थान",
+            "current": "वर्तमान स्थान",
+            "autoDetect": "स्थान स्वतः पहचान",
+            "autoDetectDesc": "सटीक समय के लिए जीपीएस का उपयोग करें",
+            "detecting": "स्थान का पता लगाया जा रहा है...",
+            "detected": "स्थान का पता चला"
+        },
+        "language": {
+            "title": "भाषा",
+            "appLanguage": "ऐप भाषा"
+        },
+        "notifications": {
+            "title": "सूचनाएं",
+            "ekadashiReminders": "एकादशी अनुस्मारक",
+            "ekadashiRemindersDesc": "एक दिन पहले सूचना",
+            "morningReminders": "सुबह के अनुस्मारक",
+            "morningRemindersDesc": "व्रत शुरू होने की सूचना",
+            "paranaReminders": "पारण अनुस्मारक",
+            "paranaRemindersDesc": "व्रत तोड़ने का समय",
+            "notificationTime": "सूचना का समय",
+            "dailyReminderTime": "दैनिक अनुस्मारक समय"
+        },
+        "display": {
+            "title": "प्रदर्शन",
+            "darkMode": "डार्क मोड",
+            "darkModeDesc": "आंखों के लिए आरामदायक",
+            "largeText": "बड़ा पाठ",
+            "largeTextDesc": "पठनीयता में सुधार करें"
+        },
+        "calendar": {
+            "title": "कैलेंडर एकीकरण",
+            "syncGoogle": "गूगल कैलेंडर के साथ सिंक करें",
+            "syncGoogleDesc": "एकादशी ईवेंट जोड़ें",
+            "exportICal": "iCal में निर्यात करें",
+            "exportICalDesc": "कैलेंडर फ़ाइल डाउनलोड करें"
+        },
+        "appInfo": {
+            "title": "ऐप की जानकारी",
+            "version": "संस्करण",
+            "lastUpdated": "अंतिम अपडेट",
+            "checkUpdates": "अपडेट के लिए जाँच करें"
+        },
+        "support": {
+            "title": "समर्थन",
+            "description": "यह ऐप मुफ्त है और हमेशा रहेगा। हम इसे चालू रखने के लिए पूरी तरह से अपने समुदाय की दया पर निर्भर हैं। कोई सदस्यता नहीं, कोई शुल्क नहीं - बस आपका समर्थन।",
+            "coffeeDesigner": "डिज़ाइनर के लिए कॉफ़ी",
+            "supportOurWork": "हमारे कार्य का समर्थन करें",
+            "thankYou": "धन्यवाद!",
+            "logout": "लॉग आउट"
+        }
+    }
+}

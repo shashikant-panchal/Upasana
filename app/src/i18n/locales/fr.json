@@ -1,0 +1,148 @@
+{
+  "app": {
+    "name": "Application Ekadashi",
+    "tagline": "Votre compagnon spirituel"
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "success": "Succès",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "change": "Changer",
+    "connect": "Connecter",
+    "export": "Exporter"
+  },
+  "navigation": {
+    "home": "Accueil",
+    "calendar": "Calendrier",
+    "profile": "Profil",
+    "settings": "Paramètres"
+  },
+  "settings": {
+    "title": "Paramètres",
+    "subtitle": "Personnalisez votre expérience",
+    "location": {
+      "title": "Emplacement",
+      "current": "Emplacement actuel",
+      "autoDetect": "Détection automatique",
+      "autoDetectDesc": "Utiliser le GPS pour des horaires précis",
+      "detecting": "Détection de l'emplacement...",
+      "detected": "Emplacement détecté"
+    },
+    "language": {
+      "title": "Langue",
+      "appLanguage": "Langue de l'application"
+    },
+    "notifications": {
+      "title": "Notifications",
+      "ekadashiReminders": "Rappels Ekadashi",
+      "ekadashiRemindersDesc": "Notification la veille",
+      "morningReminders": "Rappels matinaux",
+      "morningRemindersDesc": "Notification de début de jeûne",
+      "paranaReminders": "Rappels Parana",
+      "paranaRemindersDesc": "Heure de rupture du jeûne",
+      "notificationTime": "Heure de notification",
+      "dailyReminderTime": "Heure du rappel quotidien"
+    },
+    "display": {
+      "title": "Affichage",
+      "darkMode": "Mode sombre",
+      "darkModeDesc": "Plus doux pour les yeux",
+      "largeText": "Texte large",
+      "largeTextDesc": "Améliorer la lisibilité"
+    },
+    "calendar": {
+      "title": "Intégration calendrier",
+      "syncGoogle": "Synchroniser avec Google Calendar",
+      "syncGoogleDesc": "Ajouter des événements Ekadashi",
+      "exportICal": "Exporter vers iCal",
+      "exportICalDesc": "Télécharger le fichier calendrier"
+    },
+    "appInfo": {
+      "title": "Informations sur l'application",
+      "version": "Version",
+      "lastUpdated": "Dernière mise à jour",
+      "checkUpdates": "Vérifier les mises à jour"
+    },
+    "support": {
+      "title": "Soutien",
+      "coffeeDesigner": "Café pour le concepteur",
+      "thankYou": "Merci!",
+      "logout": "Déconnexion"
+    }
+  },
+  "home": {
+    "greeting": "Hare Krishna",
+    "todaysPanchang": "Panchang d'aujourd'hui",
+    "nextEkadashi": "Prochain Ekadashi",
+    "japaProgress": "Progrès Japa"
+  },
+  "panchang": {
+    "tithi": "Tithi",
+    "sunrise": "Lever du soleil",
+    "sunset": "Coucher du soleil",
+    "moonrise": "Lever de la lune",
+    "moonset": "Coucher de la lune",
+    "nakshatra": "Nakshatra",
+    "yoga": "Yoga",
+    "karana": "Karana",
+    "refresh": "Actualiser"
+  },
+  "languages": {
+    "en": "Anglais",
+    "hi": "Hindi",
+    "kn": "Kannada",
+    "bn": "Bengali",
+    "fr": "Français",
+    "de": "Allemand"
+  },
+  "ekadashiDetail": {
+    "story": {
+      "title": "Histoire et Signification",
+      "benefit": "Observer l'Ekadashi avec dévotion aide à surmonter les obstacles de la vie et apporte la paix intérieure. Ce jour sacré est particulièrement bénéfique pour ceux qui recherchent la croissance spirituelle et la prospérité matérielle.",
+      "readFull": "Lire l'histoire complète"
+    },
+    "fullStory": {
+      "legend": "La Légende Sacrée",
+      "para1": "Il y a longtemps, dans le royaume céleste, vivait un démon nommé Mura qui tourmentait les dieux et les sages. Incapable de le vaincre par des moyens conventionnels, Lord Vishnu s'engagea dans une bataille féroce qui dura des milliers d'années. Pendant cette lutte cosmique, une jeune fille divine émergea du corps du Seigneur, rayonnant d'un immense pouvoir spirituel.",
+      "para2": "Cet être céleste, né de l'énergie transcendantale du Seigneur, vainquit facilement le démon Mura. Satisfait de son service, Lord Vishnu lui accorda une faveur. Elle demanda que ceux qui jeûneraient le jour de son apparition soient bénis par l'avancement spirituel et la libération du lien matériel.",
+      "para3": "Le Seigneur la nomma Ekadashi, car elle apparut le onzième jour du mois lunaire. Il déclara qu'observer Ekadashi avec dévotion, jeûne et pratiques spirituelles accorderait aux dévots un immense bénéfice spirituel, la purification de la conscience et le progrès sur le chemin de la dévotion.",
+      "significance": "Signification Spirituelle",
+      "para4": "Ekadashi représente la transcendance de la conscience matérielle et l'éveil de la conscience spirituelle. En observant ce jour sacré, les dévots s'alignent avec des vibrations spirituelles supérieures, purifient leurs cœurs et développent un amour et une dévotion plus profonds pour le Seigneur Suprême.",
+      "para5": "La pratique du jeûne le jour d'Ekadashi ne consiste pas seulement à s'abstenir de nourriture, mais à élever sa conscience par la prière, la méditation, le chant et la contemplation des vérités spirituelles. C'est un jour dédié au renouveau spirituel et à la transformation intérieure."
+    },
+    "rules": {
+      "title": "Règles et Directives de Vrata",
+      "rule1": "Commencer le jeûne dès le lever du soleil le jour d'Ekadashi",
+      "rule2": "Éviter les céréales, les haricots et certains légumes",
+      "rule3": "Restez hydraté avec de l'eau et des jus de fruits",
+      "rule4": "Passez du temps en prière et en méditation",
+      "rule5": "Lisez des textes spirituels ou chantez des mantras"
+    },
+    "timings": {
+      "title": "Horaires Importants",
+      "fastingBegins": "Début du Jeûne",
+      "paranaWindow": "Fenêtre Parana"
+    },
+    "bhajans": {
+      "title": "Bhajans et Mantras",
+      "playing": "Musique dévotionnelle pour votre voyage spirituel"
+    },
+    "recipes": {
+      "title": "Recettes Sattviques",
+      "recipe1": {
+        "name": "Salade de Fruits",
+        "desc": "Fruits de saison mélangés avec du miel"
+      },
+      "recipe2": {
+        "name": "Sabudana Kheer",
+        "desc": "Pudding de tapioca sucré avec des noix"
+      },
+      "recipe3": {
+        "name": "Kuttu Roti",
+        "desc": "Pain plat de sarrasin avec du yaourt"
+      }
+    }
+  }
+}

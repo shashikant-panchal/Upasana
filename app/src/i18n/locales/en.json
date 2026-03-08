@@ -1,0 +1,84 @@
+{
+    "app": {
+        "name": "Ekadashi Din",
+        "tagline": "Your spiritual companion for Ekadashi observance and daily practice"
+    },
+    "common": {
+        "loading": "Loading...",
+        "error": "Error",
+        "success": "Success",
+        "save": "Save",
+        "cancel": "Cancel",
+        "change": "Change",
+        "connect": "Connect",
+        "export": "Export",
+        "back": "Back",
+        "viewDetails": "View Details",
+        "retry": "Retry",
+        "today": "Today",
+        "upcoming": "Upcoming",
+        "daysRemaining": "days remaining"
+    },
+    "navigation": {
+        "home": "Home",
+        "calendar": "Calendar",
+        "ekadashis": "Ekadashis",
+        "profile": "Profile",
+        "settings": "Settings"
+    },
+    "settings": {
+        "title": "Settings",
+        "subtitle": "Customize your experience",
+        "location": {
+            "title": "Location",
+            "current": "Current Location",
+            "autoDetect": "Auto-detect Location",
+            "autoDetectDesc": "Use GPS for accurate timings",
+            "detecting": "Detecting location...",
+            "detected": "Location detected"
+        },
+        "language": {
+            "title": "Language",
+            "appLanguage": "App Language"
+        },
+        "notifications": {
+            "title": "Notifications",
+            "ekadashiReminders": "Ekadashi Reminders",
+            "ekadashiRemindersDesc": "Day before notification",
+            "morningReminders": "Morning Reminders",
+            "morningRemindersDesc": "Fasting start notification",
+            "paranaReminders": "Parana Reminders",
+            "paranaRemindersDesc": "Fast breaking time",
+            "notificationTime": "Notification Time",
+            "dailyReminderTime": "Daily reminder time"
+        },
+        "display": {
+            "title": "Display",
+            "darkMode": "Dark Mode",
+            "darkModeDesc": "Easier on the eyes",
+            "largeText": "Large Text",
+            "largeTextDesc": "Improve readability"
+        },
+        "calendar": {
+            "title": "Calendar Integration",
+            "syncGoogle": "Sync with Google Calendar",
+            "syncGoogleDesc": "Add Ekadashi events",
+            "exportICal": "Export to iCal",
+            "exportICalDesc": "Download calendar file"
+        },
+        "appInfo": {
+            "title": "App Information",
+            "version": "Version",
+            "lastUpdated": "Last Updated",
+            "checkUpdates": "Check for Updates"
+        },
+        "support": {
+            "title": "Support",
+            "description": "This app is free and always will be. We rely solely on the kindness of our community to keep it running. No subscriptions, no fees — just your support.",
+            "coffeeDesigner": "Coffee for Designer",
+            "supportOurWork": "Support our work",
+            "thankYou": "Thank you!",
+            "logout": "Logout"
+        }
+    }
+}

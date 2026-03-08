@@ -1,0 +1,148 @@
+{
+  "app": {
+    "name": "Ekadashi App",
+    "tagline": "Ihr spiritueller Begleiter"
+  },
+  "common": {
+    "loading": "Laden...",
+    "error": "Fehler",
+    "success": "Erfolg",
+    "save": "Speichern",
+    "cancel": "Abbrechen",
+    "change": "Ändern",
+    "connect": "Verbinden",
+    "export": "Exportieren"
+  },
+  "navigation": {
+    "home": "Startseite",
+    "calendar": "Kalender",
+    "profile": "Profil",
+    "settings": "Einstellungen"
+  },
+  "settings": {
+    "title": "Einstellungen",
+    "subtitle": "Passen Sie Ihre Erfahrung an",
+    "location": {
+      "title": "Standort",
+      "current": "Aktueller Standort",
+      "autoDetect": "Standort automatisch erkennen",
+      "autoDetectDesc": "GPS für genaue Zeiten verwenden",
+      "detecting": "Standort wird erkannt...",
+      "detected": "Standort erkannt"
+    },
+    "language": {
+      "title": "Sprache",
+      "appLanguage": "App-Sprache"
+    },
+    "notifications": {
+      "title": "Benachrichtigungen",
+      "ekadashiReminders": "Ekadashi-Erinnerungen",
+      "ekadashiRemindersDesc": "Benachrichtigung am Vortag",
+      "morningReminders": "Morgenerinnerungen",
+      "morningRemindersDesc": "Fastenstart-Benachrichtigung",
+      "paranaReminders": "Parana-Erinnerungen",
+      "paranaRemindersDesc": "Fastenbrechen-Zeit",
+      "notificationTime": "Benachrichtigungszeit",
+      "dailyReminderTime": "Tägliche Erinnerungszeit"
+    },
+    "display": {
+      "title": "Anzeige",
+      "darkMode": "Dunkler Modus",
+      "darkModeDesc": "Angenehmer für die Augen",
+      "largeText": "Großer Text",
+      "largeTextDesc": "Lesbarkeit verbessern"
+    },
+    "calendar": {
+      "title": "Kalenderintegration",
+      "syncGoogle": "Mit Google Kalender synchronisieren",
+      "syncGoogleDesc": "Ekadashi-Ereignisse hinzufügen",
+      "exportICal": "Nach iCal exportieren",
+      "exportICalDesc": "Kalenderdatei herunterladen"
+    },
+    "appInfo": {
+      "title": "App-Informationen",
+      "version": "Version",
+      "lastUpdated": "Zuletzt aktualisiert",
+      "checkUpdates": "Nach Updates suchen"
+    },
+    "support": {
+      "title": "Unterstützung",
+      "coffeeDesigner": "Kaffee für Designer",
+      "thankYou": "Danke!",
+      "logout": "Abmelden"
+    }
+  },
+  "home": {
+    "greeting": "Hare Krishna",
+    "todaysPanchang": "Heutiges Panchang",
+    "nextEkadashi": "Nächster Ekadashi",
+    "japaProgress": "Japa-Fortschritt"
+  },
+  "panchang": {
+    "tithi": "Tithi",
+    "sunrise": "Sonnenaufgang",
+    "sunset": "Sonnenuntergang",
+    "moonrise": "Mondaufgang",
+    "moonset": "Monduntergang",
+    "nakshatra": "Nakshatra",
+    "yoga": "Yoga",
+    "karana": "Karana",
+    "refresh": "Aktualisieren"
+  },
+  "languages": {
+    "en": "Englisch",
+    "hi": "Hindi",
+    "kn": "Kannada",
+    "bn": "Bengali",
+    "fr": "Französisch",
+    "de": "Deutsch"
+  },
+  "ekadashiDetail": {
+    "story": {
+      "title": "Geschichte und Bedeutung",
+      "benefit": "Die hingebungsvolle Beobachtung von Ekadashi hilft, Lebenshindernisse zu überwinden und inneren Frieden zu bringen. Dieser heilige Tag ist besonders vorteilhaft für diejenigen, die spirituelles Wachstum und materiellen Wohlstand suchen.",
+      "readFull": "Vollständige Geschichte lesen"
+    },
+    "fullStory": {
+      "legend": "Die Heilige Legende",
+      "para1": "Vor langer Zeit lebte im himmlischen Reich ein Dämon namens Mura, der die Götter und Weisen quälte. Unfähig, ihn mit konventionellen Mitteln zu besiegen, führte Lord Vishnu einen heftigen Kampf, der Tausende von Jahren dauerte. Während dieses kosmischen Kampfes entstand aus dem Körper des Herrn eine göttliche Jungfrau, die immense spirituelle Kraft ausstrahlte.",
+      "para2": "Dieses himmlische Wesen, geboren aus der transzendentalen Energie des Herrn, besiegte den Dämon Mura mit Leichtigkeit. Erfreut über ihren Dienst gewährte Lord Vishnu ihr einen Segen. Sie bat darum, dass diejenigen, die an ihrem Erscheinungstag fasten, mit spirituellem Fortschritt und Befreiung von materieller Bindung gesegnet werden.",
+      "para3": "Der Herr nannte sie Ekadashi, da sie am elften Tag des Mondmonats erschien. Er erklärte, dass die Beobachtung von Ekadashi mit Hingabe, Fasten und spirituellen Praktiken den Anhängern immensen spirituellen Nutzen, Reinigung des Bewusstseins und Fortschritt auf dem Pfad der Hingabe gewähren würde.",
+      "significance": "Spirituelle Bedeutung",
+      "para4": "Ekadashi repräsentiert die Transzendenz des materiellen Bewusstseins und das Erwachen des spirituellen Bewusstseins. Durch die Beobachtung dieses heiligen Tages richten sich die Anhänger auf höhere spirituelle Schwingungen aus, reinigen ihre Herzen und entwickeln tiefere Liebe und Hingabe für den Höchsten Herrn.",
+      "para5": "Die Praxis des Fastens an Ekadashi besteht nicht nur darin, auf Essen zu verzichten, sondern darin, das Bewusstsein durch Gebet, Meditation, Gesang und Kontemplation spiritueller Wahrheiten zu erhöhen. Es ist ein Tag, der der spirituellen Erneuerung und inneren Transformation gewidmet ist."
+    },
+    "rules": {
+      "title": "Vrata-Regeln und Richtlinien",
+      "rule1": "Beginnen Sie das Fasten ab Sonnenaufgang am Ekadashi-Tag",
+      "rule2": "Vermeiden Sie Getreide, Bohnen und bestimmte Gemüse",
+      "rule3": "Bleiben Sie mit Wasser und Fruchtsäften hydratisiert",
+      "rule4": "Verbringen Sie Zeit mit Gebet und Meditation",
+      "rule5": "Lesen Sie spirituelle Texte oder singen Sie Mantras"
+    },
+    "timings": {
+      "title": "Wichtige Zeiten",
+      "fastingBegins": "Fasten beginnt",
+      "paranaWindow": "Parana-Zeitfenster"
+    },
+    "bhajans": {
+      "title": "Bhajans und Mantras",
+      "playing": "Andachtsmusik für Ihre spirituelle Reise"
+    },
+    "recipes": {
+      "title": "Sattvische Rezepte",
+      "recipe1": {
+        "name": "Obstsalat",
+        "desc": "Gemischte saisonale Früchte mit Honig"
+      },
+      "recipe2": {
+        "name": "Sabudana Kheer",
+        "desc": "Süßer Tapioka-Pudding mit Nüssen"
+      },
+      "recipe3": {
+        "name": "Kuttu Roti",
+        "desc": "Buchweizen-Fladenbrot mit Joghurt"
+      }
+    }
+  }
+}
