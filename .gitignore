@@ -5,6 +5,16 @@
 expo-env.d.ts
 # @end expo-cli
 
+# Standard React Native / Expo ignores
+node_modules/
+.expo/
+dist/
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+web-build/
+.vscode/
+
 # Ignore sensitive configuration files
 android/app/google-services.json
 ios/GoogleService-Info.plist
